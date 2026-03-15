@@ -4,8 +4,6 @@ from pygame import *
 from random import randint
 
 
-print(123)
-
 mixer.init()
 mixer.music.load('space.ogg')
 mixer.music.play()
